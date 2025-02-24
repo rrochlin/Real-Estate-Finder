@@ -1,1 +1,3 @@
-ETL/raw_data/
+ETL/raw_data/*
+!ETL/raw_data/.gitkeep
+env/
